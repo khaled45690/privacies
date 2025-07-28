@@ -38,11 +38,7 @@
 ---
 
 ## 3. Data Sharing  
-- **No Sale of Data:** We do not sell, rent, or trade your data.  
-- **Third-Party Services (If Applicable):**  
-  > Facial image data is transmitted to *[Third-Party Service Name]* for processing. Their privacy policy is available [here](https://example.com).  
-
-- **Legal Compliance:** Data may be disclosed if required by law (e.g., court order).  
+- **No Sale of Data:** We do not sell, rent, or trade your data.    
 
 ---
 
@@ -58,7 +54,7 @@
 ---
 
 ## 6. Policy Updates  
-- Changes will be posted here with an updated "Last Revised" date. Users are advised to review periodically.  
+- Changes will be posted here with an updated date. Users are advised to review periodically.  
 
 ---
 
