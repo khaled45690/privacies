@@ -15,7 +15,7 @@
     - **Attendance Registration:** Recording the user's presence at a specific time and location.  
 
 - **Location Data (Optional):**  
-  > *If enabled by the user*, **face_auth** may collect precise location data to verify attendance at designated locations. This data is used solely for confirming physical presence for attendance tracking.  
+  > *If enabled by the user*, **face_auth** may collect precise location data to verify attendance at designated locations. This data is used solely for confirming physical presence for attendance tracking and this happen only when the app is opened while sending this checkin or out.  
 
 - **Other Data:**  
   - No additional personal information (e.g., name, email) is collected during face capture.  
@@ -26,14 +26,14 @@
 ## 2. Data Storage and Security  
 ### Storage Practices:  
 - **Facial Images:**  
-  - Processed and stored *[specify: e.g., "securely on our servers" OR "locally on the device and discarded after processing"]*.  
+  - Processed and stored securely on our servers.  
 
 ### Security Measures:  
 - Encryption during transmission and at rest.  
 - Strict access controls to prevent unauthorized use.  
 
 ### Data Retention:  
-- Retained for *[state policy: e.g., "duration of the user’s account" OR "X days/months for auditing"]*.  
+- Retained for till he leave the company.  
 
 ---
 
