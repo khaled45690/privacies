@@ -1,18 +1,18 @@
-# Privacy Policy for Alhayah Pharmacy App
+# Privacy Policy for Alhayah  App
 
 _Last updated: July 28, 2025_
 
-Alhayah Pharmacy  is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Alhayah Pharmacy app.
+Alhayah   is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Alhayah  app.
 
 ## 1. Information Collection
 
-The Alhayah Pharmacy app is a web-based application that displays the content of our official website (https://alhayah-mallawi.com/) within the app. The app itself does **not** collect, store, or process any personal information directly.
+The Alhayah  app is a web-based application that displays the content of our official website (https://alhayah-mallawi.com/) within the app. The app itself does **not** collect, store, or process any personal information directly.
 
 Any information you provide, such as account details, orders, or contact information, is handled securely by our website, which is powered by the Odoo ERP system. Please refer to our website’s privacy policy.
 
 ## 2. Use of Information
 
-All personal information is processed through our website and is used solely for providing pharmacy services, processing orders, and improving your experience. The app does not access or store any information locally on your device.
+All personal information is processed through our website and is used solely for providing  services, processing orders, and improving your experience. The app does not access or store any information locally on your device.
 
 ## 3. Third-Party Services
 
@@ -34,9 +34,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Alhayah Pharmacy**    
+**Alhayah **    
 Website: [https://alhayah-mallawi.com/](https://alhayah-mallawi.com/)
 
 ---
 
-By using the Alhayah Pharmacy app, you agree
+By using the Alhayah  app, you agree
